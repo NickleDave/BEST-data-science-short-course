@@ -24,7 +24,7 @@ Like so:
 2. Then do
 
   (Mac/Linux)
-  `> source activate bootcamp`
+  `$ source activate bootcamp`
 
   (Windows)
   `> activate bootcamp`
