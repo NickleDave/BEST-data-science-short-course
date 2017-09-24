@@ -1,6 +1,6 @@
 # week 1 instructions.
 
-Class will be based on the following Software Carpentry lessons:
+Class will be based on the following Software Carpentry lessons:  
 http://swcarpentry.github.io/shell-novice/
 http://swcarpentry.github.io/git-novice/
 
