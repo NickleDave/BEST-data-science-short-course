@@ -1,8 +1,8 @@
 # week 1 instructions.
 
 Class will be based on the following Software Carpentry lessons:  
-http://swcarpentry.github.io/shell-novice/
-http://swcarpentry.github.io/git-novice/
+http://swcarpentry.github.io/shell-novice/  
+http://swcarpentry.github.io/git-novice/  
 
 ## Before class
 1. Install git: https://git-scm.com/downloads
