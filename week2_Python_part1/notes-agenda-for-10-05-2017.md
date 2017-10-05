@@ -12,4 +12,8 @@ the same workflow we used before
 
 * review / better explanation of git/Github collaboration workflow
 
+* explain what Anaconda + conda are
+
 * making sure we're ready for class today
+
+
