@@ -13,3 +13,6 @@ http://swcarpentry.github.io/git-novice/
 For this lesson we'll work from the command line, not from a GUI.
  If you don't have any idea what any of that means, don't worry about
   it, you will soon.
+
+
+AlineNachlas.md
